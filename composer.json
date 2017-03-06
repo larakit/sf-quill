@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-quill",
+    "description": "[Larakit] [staticfiles] sf-quill",
+    "version": "1.5.9",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
