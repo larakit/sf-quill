@@ -3,5 +3,5 @@
     ->setSourceDir('public')
     ->jsPackage('quill.min.js')
     ->cssPackage('quill.snow.css')
-  //  ->cssPackage('quill.bubble.css')
+    ->cssPackage('quill.bubble.css')
 ;
